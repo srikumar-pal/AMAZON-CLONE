@@ -1,6 +1,6 @@
 # Amazon Clone (Frontend Project)
 
-A responsive and visually accurate **Amazon India homepage clone**, built using **HTML, CSS, and JavaScript**.  
+A responsive and visually accurate **Amazon India homepage clone**, built using **HTML, CSS,**.  
 This project focuses on recreating the real Amazon UI layout with clean design, hover effects, and section-based structure.
 
 ---
