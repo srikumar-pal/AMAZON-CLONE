@@ -19,8 +19,7 @@ This project focuses on recreating the real Amazon UI layout with clean design, 
 ## 🧰 Tech Stack
 
 - **HTML5** – Structure and content  
-- **CSS3** – Styling, layout, and hover effects  
-- **JavaScript** – Basic interactivity  
+- **CSS3** – Styling, layout, and hover effects   
 
 ---
 
@@ -44,6 +43,13 @@ This project focuses on recreating the real Amazon UI layout with clean design, 
 - Improving frontend design accuracy  
 
 ---
+
+📌 Future Improvements
+
+- Add JavaScript-based product interactions
+- Improve mobile responsiveness
+- Add login/signup UI pages
+- Convert into a full-stack project later
 
 ## 🚀 How to Run Locally
 
